@@ -51,4 +51,4 @@ while True:
     alert_triggered = False
 
     for (x1, y1, x2, y2, conf, cls) in detections:
-        cx = int((x1 + x2)
+        cx = int((x1 + x2))
